@@ -17,6 +17,6 @@ Grading Checklist
 
 50 – Used 3rd Party Font Icon FontAwesome. I used a phone and email font icon for my contact me page
 
-50  – Used a 3rd widget from Addthis to create a small social media tab on the left side of every page that every user can close if they want. 
+50  – Used a 3rd widget from Addthis to create a small social media tab on the bottom right hand of every page that every user can close if they want. 
 
 Total: 1000 Points
