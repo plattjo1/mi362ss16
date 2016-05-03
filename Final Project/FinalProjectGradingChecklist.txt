@@ -1,0 +1,22 @@
+Joshua Platt
+Grading Checklist
+
+100 – Hosted my project on Heroku
+
+100 – Custom domain name for my final project is called http://joshuaplatt.jumpingcrab.com/
+
+100 – Instructor/Discretionary, I tried to make my website look nice
+
+300 – 4 complete HTML pages with these pages Home, About Me, Experience, and Contact Me
+
+200 – Custom CSS + Bootstrap elements to format and make my website look good. I've used Bootstrap before so rapidly iterating with it is always nice.
+
+50 – 2 custom photos of myself, 1 on the home page and 1 on the about me page. I always sort of created the background from an existing image so I'm not sure if that counts. Eitherway, those two photos are original.
+
+50 –  Javascript component – Using Bootstrap I made a small carousel with javascript, gave every photo a caption and set the interval time to change pictures by itself every 7.5 seconds
+
+50 – Used 3rd Party Font Icon FontAwesome. I used a phone and email font icon for my contact me page
+
+50  – Used a 3rd widget from Addthis to create a small social media tab on the left side of every page that every user can close if they want. 
+
+Total: 1000 Points
